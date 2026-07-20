@@ -108,5 +108,6 @@ Mon site personnel regroupant expériences et projets.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enejjar-ayoub-1bb8b62b2/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Ayoub-Enejjar)
+[![Portfolio](https://skillicons.dev/icons?i=portfolio)](https://portfoliocicada.netlify.app/).
 
 📧 a.enejjar2732@uca.ac.ma · 📍 Marrakech, Maroc

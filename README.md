@@ -62,6 +62,14 @@ Je développe principalement des solutions pour les **PME marocaines et francoph
 
 ---
 
+<h3>🔥 My Stats :</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ayoub-Enejjar&background=151515&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&stroke=E0E0E0&border=E0E0E0&hide_border=false" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
 ## Sécurité : une exigence dès la conception
 
 | Domaine | Pratique appliquée |

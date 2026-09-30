@@ -62,18 +62,6 @@ Je développe principalement des solutions pour les **PME marocaines et francoph
 
 ---
 
-## Projets
-
-| Projet | Description | Technologies | Lien |
-|---|---|---|---|
-| **Delivery-App** | Interface mobile-first de livraison inspirée de Glovo, interactive et responsive. | JavaScript, HTML, CSS | [Repo](https://github.com/Ayoub-Enejjar/Delivery-App) |
-| **eCabinet** | Application web de gestion de cliniques : administrateurs, médecins et patients, automatisation des workflows et digitalisation des dossiers médicaux. | PHP, Laravel, MySQL | [Repo](https://github.com/Ayoub-Enejjar/eCabinet) |
-| **WEBSITE_CHAT** | Application de messagerie instantanée en temps réel. | JavaScript, Node.js | [Repo](https://github.com/Ayoub-Enejjar/WEBSITE_CHAT) |
-| **Map** | Calcul de distances entre villes. | Python | [Repo](https://github.com/Ayoub-Enejjar/Map) |
-| **Portfolio** | Site personnel présentant mon parcours et mes réalisations. | Frontend | [Site](https://portfoliocicada.netlify.app/) · [Repo](https://github.com/Ayoub-Enejjar/Portfolio) |
-
----
-
 ## Sécurité : une exigence dès la conception
 
 | Domaine | Pratique appliquée |
@@ -90,15 +78,6 @@ Je développe principalement des solutions pour les **PME marocaines et francoph
 - **Top 7 sur 300** — Compétition nationale de cybersécurité, CTF DGSSI × SecDojo (2024)
 - **Licence en Sciences Informatiques** — Université Cadi Ayyad, Marrakech
 - **Buildspace School of Business** — Formation en entrepreneuriat tech (en ligne)
-
----
-
-## Objectifs 2026
-
-- Finaliser **eCabinet v2**
-- Peaufiner **Delivery-App** (UX, performance, animations)
-- Intégrer un **Master en IA** ou un cycle ingénieur
-- Décrocher une **première opportunité professionnelle**
 
 ---
 
